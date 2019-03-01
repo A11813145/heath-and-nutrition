@@ -1,0 +1,26 @@
+.sd{
+color:red;}
+.sd:hover{
+color:pink;}
+.asd{background:blue;
+color:yellow;}
+.we{
+	padding:10px;
+border-radius:20px;}
+.category{
+background:red;}
+.category:hover{
+color:blue;}
+a:visited{
+	color:yellow;
+}
+.category:active{color:pink;}
+.gf{
+	background:black;
+color:white;}
+.ff{
+border:5px red solid;
+border-radius:20px;}
+.o{
+textarea:20px;}
+	
